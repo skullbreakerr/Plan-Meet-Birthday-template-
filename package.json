@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.22.2",
+    "firebaseui": "^6.0.2"
+  }
+}
